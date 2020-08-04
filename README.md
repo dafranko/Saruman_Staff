@@ -1,2 +1,2 @@
 # Saruman_Staff
-Staff that lights up, meant for hiking
+Staff that lights up, meant for camping
